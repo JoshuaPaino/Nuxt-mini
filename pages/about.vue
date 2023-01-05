@@ -3,7 +3,7 @@
         <Layout>
             <div class="flex flex-col-reverse gap-8 xl:flex-row">
                 <div class="w-full group xl:w-1/2">
-                    <img src="~/assets/img/cnn.PNG" class="rounded-lg object-cover h-140 w-full transition-all group-hover:-rotate-2 transform-gpu duration-300 ease-in-out will-change-transform md:h-120 group-hover:scale-102" alt="Profile" />
+                    <img src="/img/cnn.png" class="rounded-lg object-cover h-140 w-full transition-all group-hover:-rotate-2 transform-gpu duration-300 ease-in-out will-change-transform md:h-120 group-hover:scale-102" alt="Profile" />
                 </div>
                 <div class="flex flex-col w-full gap-4 justify-center xl:w-1/2">
                 <h1 class="text-gray-800 text-6xl">
