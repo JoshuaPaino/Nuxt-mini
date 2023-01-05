@@ -7,10 +7,10 @@
               </NuxtLink>
               
             <div class="flex flex-col py-2">
-                <h2 class="text-lg w-full text-gray-800-inline">
+                <h2 class="text-lg w-full text-gray-800 inline">
                     {{post.title}}
                 </h2>
-                <p class="text-base w-full text-gray-800/60 inline">
+                <p class="text-base w-full text-gray-500 inline">
                   {{post.description}}
                 </p>
             </div>
