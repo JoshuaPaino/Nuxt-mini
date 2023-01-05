@@ -8,7 +8,7 @@
                 About
             </nuxt-link>
         </nav>
-        <img src="/logo.png" class="h-8" alt="" />
+        <img src="/logo.png" class="h-8 w-8" alt="Logo" />
         <div class="flex gap-4">
             <nuxt-link class="font-normal text-lg text-black hover:text-gray-800" to="/">
                 Portfolio

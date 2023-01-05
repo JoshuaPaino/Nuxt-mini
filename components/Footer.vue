@@ -6,15 +6,15 @@
                     2023 Joshua Paino. All rights reserved.
                 </span>
                 <div class="flex gap-4">
-                    <NuxtLink class="cursor-pointer text-gray-800/60 hover:text-gray-800">
+                    <a href="https://github.com/"   rel="noreferrer" target="_blank"  class="cursor-pointer text-gray-800/60 hover:text-gray-800">
                     Github
-                    </NuxtLink>
-                    <NuxtLink class="cursor-pointer text-gray-800/60 hover:text-gray-800">
+                    </a>
+                    <a href="https://twitter.com/"   rel="noreferrer" target="_blank"  class="cursor-pointer text-gray-800/60 hover:text-gray-800">
                     Twitter
-                    </NuxtLink>
-                    <NuxtLink class="cursor-pointer text-gray-800/60 hover:text-gray-800">
+                    </a>
+                    <a href="https://www.linkedin.com/"   rel="noreferrer" target="_blank"  class="cursor-pointer text-gray-800/60 hover:text-gray-800">
                     Linkedin
-                    </NuxtLink>
+                    </a>
                 </div>
             </div>
         </Layout>
