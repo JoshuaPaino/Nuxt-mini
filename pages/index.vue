@@ -15,3 +15,7 @@ body{
     font-family: serif;
 }
 </style>
+
+<script setup lang="ts">
+
+</script>
