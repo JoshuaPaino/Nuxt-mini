@@ -1,6 +1,6 @@
 <template>
     <div class="felx flex-col mx-auto w-full px-4 gap-4 items-center justify-center md:px-0 md:w-3/4s">
-    <img src="/img/cnn.png" width="120" height="120" class="rounded-full object-cover w-38 h-38 mx-auto" />
+    <img src="~/assets/img/cnn.png" width="120" height="120" class="rounded-full object-cover w-38 h-38 mx-auto" />
     <h1 class="text-center w-full text-4xl text-gray-800/60 italic">
         "Stay hungry, stay foolish!"
     </h1>
